@@ -1,0 +1,19 @@
+{
+    "microsecond": "f",
+    "second": "s",
+    "minute": "M",
+    "hour_12": "I",
+    "hour_24": "H",
+    "day_of_month": "d",
+    "day_of_year": "j",
+    "week_of_year": "U",
+    "weekday": "A",
+    "weekday_abbreviated": "a",
+    "weekday_decimal": "w",
+    "month": "B",
+    "month_abbreviated": "b",
+    "month_decimal": "m",
+    "year": "Y",
+    "year_abbreviated": "y",
+    "am_pm": "p"
+}
